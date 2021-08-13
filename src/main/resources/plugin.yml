@@ -1,0 +1,4 @@
+name: GreedyGoblin
+version: ${project.version}
+main: icanthink.greedygoblin.GreedyGoblin
+api-version: 1.17
